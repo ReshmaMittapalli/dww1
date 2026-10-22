@@ -1,0 +1,18 @@
+Dataset Name: weather.nominal
+Number of Instances: 14
+Number of Attributes: 5
+
+Attribute Details:
+1. outlook - Nominal
+2. temperature - Nominal
+3. humidity - Nominal
+4. windy - Nominal
+5. play - Nominal
+
+Class Attribute: play
+
+Class Distribution:
+yes = 9
+no  = 5
+
+Dataset loaded and analyzed successfully.
